@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR-Barcode-Card/static/css/main.3459aedf.css",
+    "main.js": "/QR-Barcode-Card/static/js/main.be81b693.js",
+    "static/js/787.52412711.chunk.js": "/QR-Barcode-Card/static/js/787.52412711.chunk.js",
+    "index.html": "/QR-Barcode-Card/index.html",
+    "main.3459aedf.css.map": "/QR-Barcode-Card/static/css/main.3459aedf.css.map",
+    "main.be81b693.js.map": "/QR-Barcode-Card/static/js/main.be81b693.js.map",
+    "787.52412711.chunk.js.map": "/QR-Barcode-Card/static/js/787.52412711.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3459aedf.css",
+    "static/js/main.be81b693.js"
+  ]
+}
